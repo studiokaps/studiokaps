@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub!
 
-Salut, je suis [Votre Nom], un passionné d'UI Design basé en Normandie. À 24 ans, je suis un Junior UI Designer cherchant à explorer le monde du design et à créer des expériences utilisateur exceptionnelles. Je suis fasciné par l'intersection entre la technologie et la créativité, et je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences et apprendre de nouvelles choses.
+Salut, je suis Dimitri S, un passionné d'UI Design basé en Normandie. À 24 ans, je suis un Junior UI Designer cherchant à explorer le monde du design et à créer des expériences utilisateur exceptionnelles. Je suis fasciné par l'intersection entre la technologie et la créativité, et je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences et apprendre de nouvelles choses.
 
 ## À propos de moi
 
